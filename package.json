@@ -1,5 +1,5 @@
 {
-  "name": "lolpa-match-processor",
+  "name": "lolpa-match-service",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raitono/LoLPA-match-processor.git"
+    "url": "git+https://github.com/raitono/LoLPA-match-service.git"
   },
   "author": "raitono",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raitono/LoLPA-match-processor/issues"
+    "url": "https://github.com/raitono/LoLPA-match-service/issues"
   },
-  "homepage": "https://github.com/raitono/LoLPA-match-processor#readme",
+  "homepage": "https://github.com/raitono/LoLPA-match-service#readme",
   "dependencies": {
     "debug": "^4.1.0",
     "dotenv-safe": "^6.1.0",
